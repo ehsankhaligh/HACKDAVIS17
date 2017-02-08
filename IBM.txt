@@ -1,0 +1,1 @@
+curl -X POST -F "images_file=@13.png" "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?api_key=d07ee133a04f6cb925a7636294aeaed71bdf6376&version=2016-05-20"
